@@ -1,5 +1,5 @@
 {
-  "streams": [
+  "todos": [
     {
       "title": "first title",
       "description": "first description",
@@ -14,12 +14,6 @@
       "title": "Third title",
       "description": "third item desc",
       "id": 3
-    },
-    {
-      "title": "svd",
-      "description": "sfdfs",
-      "userId": "103122556880973509043",
-      "id": 4
     }
   ]
 }
