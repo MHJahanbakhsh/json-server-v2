@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "first title",
+      "description": "first description",
+      "id": 1
+    },
+    {
+      "title": "second thing title",
+      "description": "second thing description",
+      "id": 2
+    },
+    {
+      "title": "Third title",
+      "description": "third item desc",
+      "id": 3
+    },
+    {
+      "title": "svd",
+      "description": "sfdfs",
+      "userId": "103122556880973509043",
+      "id": 4
+    }
+  ]
+}
